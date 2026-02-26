@@ -6,14 +6,14 @@
             "bin": [
                 "terraview.exe"
             ],
-            "hash": "bf2170bada7961c86d6b52aafbee02da624fa769700ef23a026616212089fff3"
+            "hash": "62f1ae9b453e246138b1b4c77054ee13fa05b13a7710ba6575348c88fa457aa9"
         },
         "arm64": {
             "url": "https://github.com/leonamvasquez/terraview/releases/download/v0.1.0/terraview-windows-arm64.zip",
             "bin": [
                 "terraview.exe"
             ],
-            "hash": "fe5511ac96ac3ead5f25d74c767e64621132bed039d09273aea12bc78fede5fb"
+            "hash": "9c4306be52f8515e284510014e487f2a7f8a0f717e7ee90e6b0b2156431e0a95"
         }
     },
     "homepage": "https://github.com/leonamvasquez/terraview",
