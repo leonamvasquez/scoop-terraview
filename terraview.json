@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/leonamvasquez/terraview/releases/download/v0.1.0/terraview-windows-amd64.zip",
+            "bin": [
+                "terraview.exe"
+            ],
+            "hash": "54db611eb0f468fcc0165bc3797823535196616f526fdc14ab87fba3144e34ca"
+        },
+        "arm64": {
+            "url": "https://github.com/leonamvasquez/terraview/releases/download/v0.1.0/terraview-windows-arm64.zip",
+            "bin": [
+                "terraview.exe"
+            ],
+            "hash": "83626d8573f5f21088b43d5ecfdad024aa1c2d7c287da8bfea733dc73221fb5a"
+        }
+    },
+    "homepage": "https://github.com/leonamvasquez/terraview",
+    "license": "MIT",
+    "description": "Semantic reviewer for Terraform plans — static scanners + AI analysis"
+}
